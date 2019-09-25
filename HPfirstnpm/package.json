@@ -1,0 +1,11 @@
+{
+  "name": "hpfirstnpm",
+  "version": "0.0.1",
+  "description": "Just for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "chp",
+  "license": "ISC"
+}
